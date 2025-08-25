@@ -1,3 +1,5 @@
-flask
+flet==0.24.1
 requests
-flet
+pycryptodome
+cffi
+MedoSigner
